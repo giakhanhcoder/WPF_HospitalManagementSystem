@@ -18,9 +18,9 @@ old .NET 4.8 Framework, ADO.NET Db-First, Entity Framework, SQL Server.
 
 ### Screenshots
 
-<img src="WPF_HospitalManagementSystem/README_assets/login_success.png" alt="view" style="zoom:75%;" />
+<img src="README_assets/login_success.png" alt="view" style="zoom:75%;" />
 
-<img src="WPF_HospitalManagementSystem/README_assets/login_fail.png" alt="view" style="zoom:75%;" />
+<img src="README_assets/login_fail.png" alt="view" style="zoom:75%;" />
 
 <img src="WPF_HospitalManagementSystem/README_assets/view1.png" alt="view" style="zoom:75%;" />
 
