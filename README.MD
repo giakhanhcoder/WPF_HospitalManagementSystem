@@ -43,21 +43,3 @@ old .NET 4.8 Framework, ADO.NET Db-First, Entity Framework, SQL Server.
 
 ### Preview
 
-![preview](WPF_LibraryManagementSystem/README_assets/preview.gif)
-
-### Screenshots
-
-<img src="WPF_LibraryManagementSystem/README_assets/login.jpg" alt="login" style="zoom:67%;" />
-
-<img src="WPF_LibraryManagementSystem/README_assets/login_fail.jpg" alt="login" style="zoom:67%;" />
-
-
-<img src="WPF_LibraryManagementSystem/README_assets/view1.jpg" alt="view1" style="zoom:67%;" />
-
-<img src="WPF_LibraryManagementSystem/README_assets/view2.jpg" alt="view2" style="zoom:67%;" />
-
-<img src="WPF_LibraryManagementSystem/README_assets/view3.jpg" alt="view3" style="zoom:67%;" />
-
----
-
-<img src="WPF_LibraryManagementSystem/README_assets/dataDiagram.jpg" alt="view" style="zoom:67%;" />
