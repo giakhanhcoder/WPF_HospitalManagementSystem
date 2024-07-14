@@ -22,15 +22,15 @@ old .NET 4.8 Framework, ADO.NET Db-First, Entity Framework, SQL Server.
 
 <img src="README_assets/login_fail.png" alt="view" style="zoom:75%;" />
 
-<img src="WPF_HospitalManagementSystem/README_assets/view1.png" alt="view" style="zoom:75%;" />
+<img src="README_assets/view1.png" alt="view" style="zoom:75%;" />
 
-<img src="WPF_HospitalManagementSystem/README_assets/view2.png" alt="view" style="zoom:75%;" />
+<img src="README_assets/view2.png" alt="view" style="zoom:75%;" />
 
-<img src="WPF_HospitalManagementSystem/README_assets/view3.png" alt="view" style="zoom:75%;" />
+<img src="README_assets/view3.png" alt="view" style="zoom:75%;" />
 
-<img src="WPF_HospitalManagementSystem/README_assets/view4.png" alt="view" style="zoom:75%;" />
+<img src="README_assets/view4.png" alt="view" style="zoom:75%;" />
 
 ---
 
-<img src="WPF_HospitalManagementSystem/README_assets/dataDiag.jpg" alt="view" style="zoom:75%;" />
+<img src="README_assets/dataDiag.jpg" alt="view" style="zoom:75%;" />
 
